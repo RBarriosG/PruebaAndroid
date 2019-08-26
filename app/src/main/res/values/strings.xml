@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">PruebaAndroid</string>
+    <string name="codigo">Codigo:</string>
+    <string name="descripcion">Descripcion:</string>
+    <string name="precio">Precio</string>
+    <string name="boton_para_eliminar">Boton para eliminar</string>
+    <string name="boton_para_modificar">Boton para modificar</string>
+    <string name="nuevo_articulo">Nuevo Articulo</string>
 </resources>
